@@ -9,3 +9,7 @@ This analysis aims to analyse the trending section of YouTube for India and try 
 ## Live Dashboard
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaustubhgupta/youtube-trending-video-analysis/HEAD?urlpath=voila%2Frender%2FYoutube_Analysis_Dashboard.ipynb)
+
+## Preview
+
+![preview](preview.gif)
